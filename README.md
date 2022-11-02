@@ -5,7 +5,9 @@ Everything was made with plugins that are inside .obsidian/plugins folder, so if
 
 ## Overview
 ### Youtube notes as cards with thumbnails
-![](youtube_thumbnails_cards.png)
+
+![](attachments/youtube_thumbnails_cards.png)
 
 ### Media and authors - dataview
-![](media_and_authors.png)
+
+![](attachments/media_and_authors.png)
