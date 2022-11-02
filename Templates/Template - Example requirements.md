@@ -1,0 +1,7 @@
+# {{title}}
+
+## Files
+
+## Plugins
+
+## Config

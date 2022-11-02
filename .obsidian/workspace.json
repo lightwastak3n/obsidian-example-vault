@@ -4,63 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "38b9a1cbb56e3304",
-        "type": "split",
-        "dimension": 41.56479217603912,
-        "children": [
-          {
-            "id": "3fcc56913a382eb0",
-            "type": "tabs",
-            "dimension": 57.345971563981045,
-            "children": [
-              {
-                "id": "e434c613da6ec0a2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Youtube_thumbnail_cards/Youtube dashboard.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "b89dc024cd88390a",
-            "type": "tabs",
-            "dimension": 42.65402843601896,
-            "children": [
-              {
-                "id": "05422290decef902",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/Template - Youtube video thumbnails.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "c309100f214dbf1f",
+        "id": "6fdccad6990db8e2",
         "type": "tabs",
-        "dimension": 58.43520782396088,
         "children": [
           {
-            "id": "8566905fad6ff7fd",
+            "id": "dd76ea1af47a7a44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Youtube_thumbnail_cards/Youtube dashboard.md",
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1b467b5dffa8b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media and authors dataview/Media and authors - dataview reqs.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 296.5
   },
   "right": {
     "id": "96e6f61e09266edf",
@@ -132,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Youtube_thumbnail_cards/Youtube dashboard.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Youtube_thumbnail_cards/Youtube dashboard.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Youtube_thumbnail_cards/Youtube dashboard.md"
+                "file": "README.md.md"
               }
             }
           },
@@ -195,17 +160,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e434c613da6ec0a2",
+  "active": "dd76ea1af47a7a44",
   "lastOpenFiles": [
-    "Templates/Template - Youtube video thumbnails.md",
-    "Youtube_thumbnail_cards/Youtube dashboard.md",
+    "Youtube thumbnail cards/Youtube thumbnail cards - reqs.md",
+    "Media and authors dataview/Media and authors - dataview reqs.md",
+    "Media and authors dataview/Media overview.md",
     "README.md.md",
-    "Youtube_thumbnail_cards/Obsidian for beginners.md",
-    "Youtube_thumbnail_cards/Gordon Ramsey top basic cooking skills.md",
-    "Youtube_thumbnail_cards/Authentic Pizza at home.md",
-    "Templates/Template - Job hunt.md",
-    "Templates/Template - Learn Java.md",
-    "Templates/Template - Job hunt from template.md",
-    "Templates/Template - The Magnus Archives.md"
+    "Media and authors dataview/J. C. Phillips.md",
+    "Media and authors dataview/Evolution and Function of SMC Proteins.md",
+    "Media and authors dataview/C Programming Language.md",
+    "Media and authors dataview/Brian W. Kernighan.md",
+    "Templates/Template - Media item.md",
+    "Templates/Template - Youtube video thumbnails.md"
   ]
 }
