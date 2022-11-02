@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "9f07f8639aea7156",
+    "type": "split",
+    "children": [
+      {
+        "id": "38b9a1cbb56e3304",
+        "type": "split",
+        "dimension": 41.56479217603912,
+        "children": [
+          {
+            "id": "3fcc56913a382eb0",
+            "type": "tabs",
+            "dimension": 57.345971563981045,
+            "children": [
+              {
+                "id": "e434c613da6ec0a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Youtube_thumbnail_cards/Youtube dashboard.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b89dc024cd88390a",
+            "type": "tabs",
+            "dimension": 42.65402843601896,
+            "children": [
+              {
+                "id": "05422290decef902",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Template - Youtube video thumbnails.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "c309100f214dbf1f",
+        "type": "tabs",
+        "dimension": 58.43520782396088,
+        "children": [
+          {
+            "id": "8566905fad6ff7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube_thumbnail_cards/Youtube dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2fd359cc0e07fae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f996f10bc9b722d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c240ecad20e83bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7b1f54b5d53449f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7697e6c66f680782",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "96e6f61e09266edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e5e3d00d2aa727d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c328d9928b992b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Youtube_thumbnail_cards/Youtube dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "794525b391e9c7ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Youtube_thumbnail_cards/Youtube dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fc5a972fcf26b28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87e3313a2ac23f7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Youtube_thumbnail_cards/Youtube dashboard.md"
+              }
+            }
+          },
+          {
+            "id": "69172884ff65159b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e434c613da6ec0a2",
+  "lastOpenFiles": [
+    "Templates/Template - Youtube video thumbnails.md",
+    "Youtube_thumbnail_cards/Youtube dashboard.md",
+    "README.md.md",
+    "Youtube_thumbnail_cards/Obsidian for beginners.md",
+    "Youtube_thumbnail_cards/Gordon Ramsey top basic cooking skills.md",
+    "Youtube_thumbnail_cards/Authentic Pizza at home.md",
+    "Templates/Template - Job hunt.md",
+    "Templates/Template - Learn Java.md",
+    "Templates/Template - Job hunt from template.md",
+    "Templates/Template - The Magnus Archives.md"
+  ]
+}

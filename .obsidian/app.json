@@ -1,0 +1,9 @@
+{
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "attachments",
+  "readableLineLength": false,
+  "showInlineTitle": false
+}
