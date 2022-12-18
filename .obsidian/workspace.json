@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Periodic_templates/Template - Daily note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Periodic_templates/Template - Daily note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Periodic_templates/Template - Daily note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Periodic_templates/Template - Daily note.md"
               }
             }
           },
@@ -145,20 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "dd76ea1af47a7a44",
+  "active": "5c240ecad20e83bb",
   "lastOpenFiles": [
-    "Media and authors dataview/Media and authors - dataview reqs.md",
-    "README.md",
+    "Templates/Template - Author.md",
+    "Templates/Template - Example requirements.md",
+    "Templates/Template - Youtube video thumbnails.md",
     "Youtube thumbnail cards/Youtube thumbnail cards - reqs.md",
-    "Media and authors dataview/Media overview.md",
-    "README.md.md",
-    "Media and authors dataview/J. C. Phillips.md",
-    "Media and authors dataview/Evolution and Function of SMC Proteins.md",
-    "Media and authors dataview/C Programming Language.md",
-    "Media and authors dataview/Brian W. Kernighan.md",
-    "Templates/Template - Media item.md"
+    "Media and authors dataview/Media and authors - dataview reqs.md",
+    "Youtube thumbnail cards/Youtube dashboard.md",
+    "Youtube thumbnail cards/Obsidian for beginners.md",
+    "Youtube thumbnail cards/Gordon Ramsey top basic cooking skills.md",
+    "Youtube thumbnail cards/Authentic Pizza at home.md",
+    "README.md"
   ]
 }
