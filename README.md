@@ -15,4 +15,4 @@ Everything was made with plugins that are inside .obsidian/plugins folder, so if
 ### Periodic notes templates
 Set of periodic notes templates that use Templater to automatically link between each other and show appropriate tasks if you are using Tasks plugin.
 
-![](periodic_notes.png)
+![](attachments/periodic_notes.png)
