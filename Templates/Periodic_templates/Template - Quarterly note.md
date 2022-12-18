@@ -18,5 +18,3 @@ for (let i = start; i < end; i++){
 }
 tR += links.join(" | ")
 %>
-
-## Projects

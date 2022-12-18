@@ -6,21 +6,9 @@ tags: [daily_note]
 
 ## Tasks
 ```tasks
-due on {{date}}
+due on <% tp.file.title %>
 ```
 - Overdue
 ```tasks
-due before {{date}}
+due before <% tp.file.title %>
 ```
-
-## Focus
-
-
-## Work log
-
-
-## Learning log
-
-
-## Improvements
-

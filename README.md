@@ -11,3 +11,8 @@ Everything was made with plugins that are inside .obsidian/plugins folder, so if
 ### Media and authors - dataview
 
 ![](attachments/media_and_authors.png)
+
+### Periodic notes templates
+Set of periodic notes templates that use Templater to automatically link between each other and show appropriate tasks if you are using Tasks plugin.
+
+![](periodic_notes.png)

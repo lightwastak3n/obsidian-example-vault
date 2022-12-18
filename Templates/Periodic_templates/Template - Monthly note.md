@@ -15,6 +15,3 @@ due after <% moment(tp.file.title,'YYYY-MM-DD').startOf('month').format("YYYY-MM
 due before <% moment(tp.file.title,'YYYY-MM-DD').endOf('month').format("YYYY-MM-DD") %>
 short mode
 ```
-
-
-## Projects

@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6fdccad6990db8e2",
+        "id": "c648f45b296a8a86",
         "type": "tabs",
         "children": [
           {
-            "id": "dd76ea1af47a7a44",
+            "id": "2b86da4720541327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Periodic_templates/Template - Daily note.md",
+                "file": "Periodic notes/Periodic notes - reqs.md",
                 "mode": "source",
-                "source": false
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "97c60c3d19fa6397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Periodic_templates/Template - Daily note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Periodic_templates/Template - Daily note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Periodic_templates/Template - Daily note.md"
+                "file": "README.md"
               }
             }
           },
@@ -136,26 +151,34 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "681a06ae21b74943",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 338.5,
     "collapsed": true
   },
-  "active": "5c240ecad20e83bb",
+  "active": "97c60c3d19fa6397",
   "lastOpenFiles": [
-    "Templates/Template - Author.md",
-    "Templates/Template - Example requirements.md",
-    "Templates/Template - Youtube video thumbnails.md",
-    "Youtube thumbnail cards/Youtube thumbnail cards - reqs.md",
-    "Media and authors dataview/Media and authors - dataview reqs.md",
-    "Youtube thumbnail cards/Youtube dashboard.md",
-    "Youtube thumbnail cards/Obsidian for beginners.md",
-    "Youtube thumbnail cards/Gordon Ramsey top basic cooking skills.md",
     "Youtube thumbnail cards/Authentic Pizza at home.md",
-    "README.md"
+    "Periodic notes/2022-12.md",
+    "Periodic notes/2022-12-13.md",
+    "Periodic notes/2022-12-22.md",
+    "Periodic notes/2022-W51.md",
+    "Periodic notes/2022-W52.md",
+    "Periodic notes/2023.md",
+    "Periodic notes/2023-Q1.md",
+    "2023-01.md",
+    "Periodic notes/Periodic notes - reqs.md"
   ]
 }
