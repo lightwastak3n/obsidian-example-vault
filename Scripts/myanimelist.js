@@ -33,7 +33,7 @@ async function myanimelist(type, tp) {
         data.aired_from = responseData.data.aired.from.split("T")[0];
         data.aired_to = airedTo(responseData.data);
         data.trailer_url = responseData.data.trailer.url;
-        data.trailer_embed = responseData.data.trailer.embed_url.replace('&autoplay=1', '');
+        data.trailer_embed = getEmbedUrl(responseData.data.trailer.embed_url);
         data.source = responseData.data.source;
         data.episodes = responseData.data.episodes;
         data.duration = responseData.data.duration;
@@ -82,6 +82,15 @@ function airedTo(data) {
     else {
         return 'N/A';
     }
+}
+
+function getEmbedUrl(embedUrl) {
+	if (embedUrl != null) {
+		return embedUrl.replace('&autoplay=1', '');
+	}
+	else {
+		return 'N/A'
+	}
 }
 
 module.exports = myanimelist;

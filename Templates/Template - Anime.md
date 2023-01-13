@@ -27,7 +27,11 @@ No Crunchyroll link found
 ![|100](<% data.img %>)
 
 ## Trailer
-<iframe height=315 width=560 src="<% data.trailer_embed %>"></iframe>
+<%* if (data.trailer_embed != "N/A") { %><iframe height=315 width=560 src="<% data.trailer_embed %>"></iframe>
+<%* } else { %>
+No trailer found
+<%* } %>
+
 
 
 ## Plot
