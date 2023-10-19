@@ -36,7 +36,6 @@ async function goodreads(tp) {
 
 function datePublished(doc) {
     const publicationInfoElement = doc.querySelector('[data-testid="publicationInfo"]');
-    console.log(publicationInfoElement.innerText)
     const rawDate = publicationInfoElement.innerText.split("published")[1].trim();
     const dateObject = new Date(rawDate);
 
