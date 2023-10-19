@@ -17,6 +17,11 @@ Here's a quick demo
 
 ![](attachments/Obsidian_anime_manga.gif)
 
+### Automatic book info using templater and goodreads
+Use [Scripts/goodreads.js](Scripts/goodreads.js) to access goodreads book link from your clipboard and then scrapes it. You need to download that script and put it in a folder that you specified in User script functions > Script files folder location in Templater settings.
+Here is an example of it working:
+![](attachments/goodreads.gif)
+
 
 ### Youtube notes as cards with thumbnails
 

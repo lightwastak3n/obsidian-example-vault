@@ -6,8 +6,7 @@
   "attachmentFolderPath": "attachments",
   "readableLineLength": false,
   "showInlineTitle": false,
-  "spellcheckLanguages": [
-    "en-US"
-  ],
-  "livePreview": true
+  "spellcheckLanguages": null,
+  "livePreview": true,
+  "propertiesInDocument": "source"
 }
