@@ -6,7 +6,7 @@ Everything was made with plugins that are inside .obsidian/plugins folder, so if
 ## Overview
 ### Periodic notes templates
 Set of periodic notes templates that use Templater to automatically link between each other and show appropriate tasks if you are using Tasks plugin.
-Examples are in [Periodic_notes](Periodic_notes) folder and requirements in [Periodic_notes/Periodic notes - reqs](Periodic_notes/Periodic notes - reqs).
+Examples are in [Periodic_notes](Periodic_notes) folder and requirements in [Periodic_notes/Periodic notes - reqs](Periodic_notes/Periodic%20notes%20-%20reqs.md).
 
 ![](attachments/periodic_notes.png)
 
