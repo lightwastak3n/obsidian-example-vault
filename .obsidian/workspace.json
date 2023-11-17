@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book_templater/The Three-Body Problem.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book_templater/The Three-Body Problem.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book_templater/The Three-Body Problem.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book_templater/The Three-Body Problem.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,12 +169,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,30 +184,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e7f11c1d081b5f81",
   "lastOpenFiles": [
-    "Book_templater/Book templater - reqs.md",
-    "Book_templater/The Three-Body Problem.md",
-    "Book_templater/Dune.md",
+    "Periodic_notes/Periodic.md",
     "README.md",
+    "Youtube_thumbnail_cards/Youtube thumbnail cards - reqs.md",
+    "Youtube_thumbnail_cards/Youtube dashboard.md",
+    "Youtube_thumbnail_cards/Authentic Pizza at home.md",
+    "Youtube_thumbnail_cards/Gordon Ramsey top basic cooking skills.md",
     "Templates/Template - Youtube video thumbnails.md",
+    "Templates/Template - Media item.md",
+    "Templates/Template - Manga.md",
+    "Templates/Template - Example requirements.md",
     "Templates/Template - Book - goodreads.md",
-    "Anime_and_manga_templater/Anime and manga templater - reqs.md",
-    "Anime_and_manga_templater/Anime and manga properties.md",
+    "Templates/Template - Author.md",
+    "Templates/Template - Anime.md",
+    "Periodic_notes/Monthly/2022-12.md",
+    "Periodic_notes/Quarterly/2023-Q1.md",
+    "Periodic_notes/Yearly/2023.md",
+    "Periodic_notes/Periodic notes - reqs.md",
+    "Templates/Periodic_templates/Template - Monthly note.md",
+    "Templates/Periodic_templates/Template - Quarterly note.md",
+    "Periodic_notes/Weekly/2022-W51.md",
+    "Templates/Periodic_templates/Template - Daily note.md",
+    "Periodic_notes/2022/12-Dec/2022-12-22.md",
+    "Periodic_notes/2022/12-Dec/2022-12-13.md",
+    "Periodic_notes/Task list.md",
+    "Periodic_notes/2022/12-Dec",
+    "Periodic_notes/2022",
+    "Periodic_notes/Weekly",
+    "Periodic_notes/Yearly",
+    "Periodic_notes/Quarterly",
+    "Periodic_notes/Monthly",
+    "Periodic_notes/Weekly/2022-W52.md",
+    "Book_templater/Dune.md",
     "attachments/goodreads.gif",
     "attachments/output.gif",
-    "Book_templater",
-    "Templates/Template - Media item.md",
-    "Youtube_thumbnail_cards/Youtube thumbnail cards - reqs.md",
-    "Periodic_notes/Periodic notes - reqs.md",
-    "Media_and_authors_dataview/Media and authors - dataview reqs.md",
-    "Anime_and_manga_templater/Manga - One Punch-Man.md",
-    "Anime_and_manga_templater/Anime templater example.md",
-    "Anime_and_manga_templater/Manga templater example.md",
-    "Anime_and_manga_templater/Mob Psycho 100 III.md"
+    "Book_templater"
   ]
 }

@@ -1,5 +1,14 @@
 # Periodic notes - reqs
 Periodic notes that are linked. Automatically generated todo lists for daily, weekly and monthly notes using the Tasks plugin.
+Daily and weekly notes can be created from the Calendar plugin. I create other notes manually and move them to their respective folders, or click the link in one of the notes and that creates the note in the correct folder.
+
+- 2023-11-17 
+	- Changed the folder structure for periodic notes.
+	- Changed the template for the Daily note so that clicking the links for Yesterday, Week, Tomorrow creates files in the appropriate folders
+	- Daily notes are created in Periodic_notes/YYYY/MM-MMM (example: Periodic_notes/2023/11-Nov/2023-11-17)
+	- Weekly notes are created in Periodic_notes/Weekly
+	- I move other notes manually
+
 
 ## Files needed
 - Files in the Templates/Periodic_templates

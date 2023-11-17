@@ -1,3 +1,5 @@
 {
-  "template": "Templates/Periodic_templates/Template - Daily note"
+  "template": "Templates/Periodic_templates/Template - Daily note",
+  "format": "YYYY/MM-MMM/YYYY-MM-DD",
+  "folder": "Periodic_notes"
 }
